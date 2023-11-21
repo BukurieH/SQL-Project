@@ -31,4 +31,14 @@ Exploring the data to answer questions, such as:
 - Check if app than have more language have highter rating
 - Check genres with low ratings
 - Check if there is correlation between the lenght of the app description and the user rating
+
+### Recommendations
+1. Paid apps have better ratings
+2. Apps supporting between 10 and 30 languages have better rating
+3. Finance and book apps have low ratings
+4. Apps with a longer Description have better ratings
+5. A new app should aim for an average rating above 3,5
+6. Games and enterteinment have high competition 
+
+
 - Check the top rated apps for each genre
